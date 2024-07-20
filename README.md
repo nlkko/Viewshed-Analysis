@@ -29,12 +29,11 @@ implementation proves to be much slower, which should be investigated
 further.
 
 ## Results
-<figure>
-    <img src="/report/visualization.png"
-        width="500"
-        alt="Brezovica">
-    <figcaption>Visualization of a viewshed analysis using the R3 Algorithm.</figcaption>
-</figure>
+<br><br>
+<p align="center" width="100%">
+    <img width="70%" src="/report/visualization.png"> </br>
+    Visualization of a viewshed analysis using the R3 Algorithm.
+</p>
 
 <br><br>
 
