@@ -15,8 +15,6 @@ Supervisor:
 
 Link to [thesis](#) - (*Coming soon!*)
 
-<!---
-
 ## Abstract
 
 In this thesis we examine the different viewshed analysis algorithms, namely
@@ -70,7 +68,6 @@ The resulting viewshed at 63.4162 degrees latitude, 10.3982 degrees longitude.
     </tr>
 </table>
 
---->
 
 # Installation
 Install dependencies: <br />
