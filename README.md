@@ -13,7 +13,7 @@ Supervisor:
   <li>Theoharis Theoharis</li>
 </ul>
 
-Link to [thesis](#) - (*Coming soon!*)
+Link to [thesis](https://drive.google.com/file/d/1hxsbDvyRq4aARuwwidbSg6qlV1obYejl/view)
 
 ## Abstract
 
